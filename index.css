@@ -9,8 +9,9 @@ body{
 }
 
 .digital{
-    background-color: pink;
     font-size: 2rem;
+    min-width: 300px;
     display: flex;
+    justify-content: center;
 }
 
